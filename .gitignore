@@ -1,0 +1,11 @@
+__pycache__\
+*.pyc
+.env
+gt-sql-env\
+p01_care_env\
+venv\
+data\*.csv
+.DS_Store
+
+
+
